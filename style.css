@@ -1,14 +1,23 @@
+body {
+    margin: 0;
+}
+
 .intestazione {
     background-color: rgb(40, 70, 206);
-    height: 10vh;
+    height: 90px;
     background-image: url(img/pattern.png);
     background-size: contain;
+    padding: 0;
 }
 
 .logo {
     max-width: 100%;
     max-height: 100%;
     padding-top: 10px;
+}
+
+.azzuro {
+    color: #20a9e5;
 }
 
 h1 {
@@ -42,4 +51,61 @@ p {
 
 .giallo {
     background: #FFFF00;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.firstth {
+    width: 25%;
+}
+
+.secondth {
+    width:25%;
+}
+
+
+.bluerow {
+    background-color: #4ea0ff;
+    color: white; 
+}
+
+.cyanorow {
+    background-color: #b1e5f2;
+}
+
+.lastp {
+    margin-bottom: 20px;
+}
+
+.div2{
+    padding-left: 10px;
+}
+
+.img1 {
+    color: white;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 220px;
+}
+
+.img2 {
+    color: white;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 220px;
+    margin-top: 0px;
+}
+
+.altro {
+    color: gray;
+    font-size: 20px;
 }
