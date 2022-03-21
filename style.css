@@ -1,0 +1,45 @@
+.intestazione {
+    background-color: rgb(40, 70, 206);
+    height: 10vh;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+
+.logo {
+    max-width: 100%;
+    max-height: 100%;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.info1 {
+    color: gray;
+}
+
+.info2 {
+    color: gray;
+    font-size: small;
+}
+
+.info3 {
+    font-size: small;
+    margin-bottom: 20px;
+}
+
+.bill {
+    margin-top: 30px;
+    
+}
+
+.giallo {
+    background: #FFFF00;
+}
